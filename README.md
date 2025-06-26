@@ -13,8 +13,7 @@ Este é um projeto de front-end construído com HTML5, CSS3 e Bootstrap 5.3, que
 - CSS3
 - [Bootstrap 5.3](https://getbootstrap.com/)
 
-## 📸 Demonstração
-![Meteora](https://github.com/user-attachments/assets/c5223580-9284-42ad-88b4-a3ef1d65223d)
+
 
 
 
