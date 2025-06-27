@@ -13,3 +13,10 @@
 .botao-lilas {
     background-color: #9353FF;
 }
+
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
